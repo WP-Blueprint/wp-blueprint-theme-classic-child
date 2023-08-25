@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8175fad9d9e63956f88ac201eedb0cd4",
+    "content-hash": "46b6c8d7a98d6f2573b46df33b2aa5ad",
     "packages": [
         {
             "name": "wp-blueprint/theme-core",
