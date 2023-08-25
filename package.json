@@ -1,7 +1,7 @@
 {
 	"name": "wp-blueprint-theme-classic-child",
 	"version": "1.0.0",
-	"description": "WP Blueprint Classic Theme that provides an object-oriented PHP foundation for WordPress projects that use the traditional WordPress theme system.",
+	"description": "WP Blueprint Classic Theme is a child theme that provides an object-oriented PHP foundation for WordPress projects that use the traditional WordPress theme system.",
 	"main": "index.js",
 	"scripts": {
 		"dev": "mix",
